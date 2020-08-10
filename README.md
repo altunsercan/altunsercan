@@ -5,7 +5,7 @@ You can find me creep around Extenject chatrooms to spread holy message of Depen
 
 - 🔭 I’m currently working on ... Async support for Extenject, Some build tools for myself.
 - 🌱 I’m currently learning ... Using TDD in Game Dev.
-- ⚡ Fun fact: ... I like to name my repositories weird names so only people brave enough to go to their manager with "Kegstand" "Buttplug" "MorningWood" may use them.
+- ⚡ Fun fact: ... I like to give my repositories weird names so only people brave enough to go to their manager with "Kegstand" "Buttplug" "MorningWood" may use them.
 
 <!--
 **altunsercan/altunsercan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
