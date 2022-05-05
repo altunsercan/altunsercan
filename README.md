@@ -3,8 +3,8 @@ Gameplay and AI Programmer currently working on mobile games @ Montreal;
 
 You can find me creep around Extenject chatrooms to spread holy message of Dependency Injection. 
 
-- 🔭 I’m currently working on ... Async support for Extenject, Some build tools for myself.
-- 🌱 I’m currently learning ... Using TDD in Game Dev.
+- 🔭 I’m currently working on ... Exploring Roslyn compiler capabilities (Source Generation in particular) and developing patterns and practices around it.
+- 🌱 I’m currently learning ... VR/AR development
 - ⚡ Fun fact: ... I like to give my repositories weird names so only people brave enough to go to their manager with "Kegstand" may use them.
 
 <!--
